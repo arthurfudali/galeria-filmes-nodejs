@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    /* background-color: #14181c; */
+    padding: 5px;
+}
+.moviecard{
+    border: 1px;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: black;
+}
+.moviebody{
+    color: #fff;
+    background-color: hsl(210 17% 12% / 1);
+}
+body{
+    background-color: #14181c;
+}
+.btn{
+    background-color: #00ac1c;
+    color: #fff;
+}
+.img-thumbnail:hover{
+    border-color: #00ac1c !important;
+    background-color: #00ac1c;
+}
